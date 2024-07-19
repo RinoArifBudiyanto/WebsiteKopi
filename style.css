@@ -24,7 +24,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* padding: 1rem 7%; */
+  padding: 1.4rem 7%;
   background-color: var(--bg);
   /* rgba(252, 252, 252, 0.8) */
   border-bottom: 1px solid var(--primary);
@@ -94,7 +94,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url(../img/kopi2.jpg);
+  background-image: url(../img/kopi8.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -225,7 +225,8 @@ body {
   color: var(--primary);
   font-size: 2.6rem;
   /* margin-bottom: 3rem; */
-  margin-top: 3rem;
+  margin-top: 10rem;
+  /* margin-bottom: 3rem; */
 }
 
 .menu h2 span {
